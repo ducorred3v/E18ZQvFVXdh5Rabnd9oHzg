@@ -1,0 +1,3 @@
+sqlite3 bot.db
+CREATE TABLE usuarios (user_id INTEGER PRIMARY KEY, saldo REAL DEFAULT 0);
+.exit
